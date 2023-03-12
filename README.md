@@ -1,7 +1,7 @@
 # Chai Knowledge Base*
 A repository to collect and distribute community aggregated information. This is my personal repository of information regarding the Chai.ml chat bot application. ***I am not affiliated with Chai.ml in any way other than I use their product. I do not have any special privilege or access to the Chai.ml developers or the Discord mods.***
 
-### Jump to **[Known Issues]()** 
+### Jump to **[Known Problems](#known-problems)** 
 ---
 
 ## **FAQ(and statement)s**
@@ -14,7 +14,7 @@ These are taken mostly from the discord chats and the most common questions aske
 * [Premium costs too much in my my country, can you lower the price, or make it free.](#)
 * [My subscription is not working, HALP!](#my-subscription-is-not-working-please-help)
 * [I've upgraded to an Ultra subscription but I still have my Premium subscription until the end of the [MONTH, YEAR]](#ive-upgraded-to-an-ultra-subscription-but-i-still-have-my-premium-subscription-until-the-end-of-my-monthly-yearly-billing-cycle)
-* [I used to have unlimited re-rolls and now the button disappears after 5, is this a bug?](#)
+* [I used to have unlimited re-rolls and now the button disappears after 5, is this a bug?](#i-used-to-have-unlimited-re-rolls-and-now-the-button-disappears-after-5-is-this-a-bug)
 
 
 ### **Please give me unlimited messages for free**
@@ -34,7 +34,7 @@ Unfortunately the chai.ml team doesn't handle the billing directly. This is hand
 This is a billing feature of the google play store (and maybe the Apple App store?). In order to facilitate the easiest possible transition the billing needs to complete the full cycle. Otherwise it would have to be prorated, and change the cycle dates, and could mess things up (The issue is real, and the answer is valid, however the reasoning is purely fictional).
 
 ### **I used to have unlimited re-rolls and now the button disappears after 5, is this a bug?**
-This again has to do with cost. Each re-roll is a message to the bot, which incurs a cost for the Chai.ml team. In free accounts this transaction does not consume a message. Continuously re-rolling was one of the largest costs for the chai.ml team. *Maaaaayybeeee* just program your bots better. :grimacing:
+This again has to do with cost. Each re-roll is a message to the bot, which incurs a cost for the Chai.ml team. In free accounts this transaction does not consume a message. Continuously re-rolling was one of the largest costs for the chai.ml team. There is a pinned message on the discord channel regarding this. *Maaaaayybeeee* just program your bots better. :grimacing:
 
 ---
 ## **Known Problems**
