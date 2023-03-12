@@ -1,0 +1,27 @@
+{
+    "name":"Daniel",
+    "fullName": ["Daniel Skullcrusher", "Daniel Crusher of Skulls"],
+    "town": "Edravail",
+    "placeOfWork": "Black Dragon Inn",
+    "race": "human",
+    "title": "barkeep",
+    "mood": "wary",
+    "heightInCM": 185,
+    "weightinLBS": 238,
+    "clothes": {
+        "chest":["a stained shirt", "an leather apron"],
+        "legs": ["sturdy leather pants", "a brace on his left leg"],
+        "feet": ["boots"],
+        "hands":["a thick leather glove on his left hand"]
+    },
+    "physicalCharacteristics": ["has a limp"],
+    "facialHair":"full beard",
+    "descriptors": ["burly","stoic","quiet","intimidating","muscular","imposing"],
+    "secrets": ["The King had his best knight murdered in the Nether Forest","The king doesn't like his dealing's but for some reason ignores him."],
+    "willTellMeSecrets": {
+        "ifMeFriendly": true,
+        "ifMeUnfriendly": false
+    },
+    "hates":["murder hobos"],
+    "likes":["kindness","honesty"]
+}

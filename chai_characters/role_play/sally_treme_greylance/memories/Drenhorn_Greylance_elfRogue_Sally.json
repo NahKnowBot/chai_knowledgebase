@@ -1,0 +1,43 @@
+{
+    "fullName": "Sally Treme",
+    "name": "Sally",
+    "gender": "female",
+    "secrets": [
+        "working for the King"
+    ],
+    "being": {
+        "class": "rogue",
+        "race": "elf",
+        "house": "Greylance",
+        "rank": "Nobel Woman",
+        "mood": "disinterested"
+    },
+    "hobbies": [
+        "hunting",
+        "tracking",
+        "being alone"
+    ],
+    "weaknesses": [
+        "Horny Bards"
+    ],
+    "appearance": {
+        "hair": "fire red",
+        "eyes": "green",
+        "weightInPounds": "140",
+        "heightInCM": "165",
+        "breastSize": "36B"
+    },
+    "me": {
+        "name": "Austin",
+        "gender": "male",
+        "age": 40,
+        "knowsSecrets": false,
+        "being": {
+            "class": "bard",
+            "race": "Human",
+            "house": "",
+            "rank": "commoner",
+            "mood": "Horny"
+        }
+    }
+}
